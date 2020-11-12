@@ -3,7 +3,7 @@
 layout: home
 ---
 
-## Collaborative Learning 2.0 Documentation 
+
 
 ![Collaborative Learning Network Logo](img/collab_learning.png)
 

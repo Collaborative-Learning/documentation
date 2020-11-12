@@ -3,10 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
+The Collaborative Learning 2.0 software team is comprised of:
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
+Jan Roddy
+Alec Richardson
+Andrew Owen
+Tristan Linn
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
 
