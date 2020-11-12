@@ -5,7 +5,7 @@ layout: home
 
 ## Collaborative Learning 2.0 Documentation 
 
-Link](url) and ![Image](src)
+![Collaborative Learning Network Logo](img/collab_learning.png)
 
 
 ### Linked Table of Contents
