@@ -5,16 +5,13 @@ permalink: /about/
 ---
 The Collaborative Learning 2.0 software team is comprised of:
 
-Jan Roddy
-Alec Richardson
-Andrew Owen
-Tristan Linn
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- Jan Roddy
+- Alec Richardson
+- Andrew Owen
+- Tristan Linn
 
 
-[jekyll-organization]: https://github.com/jekyll
+You can find read more about the Collaborative Learning Network on it's web page
+[here](https://collaborativelearningnetwork.com/)
+
+
