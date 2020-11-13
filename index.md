@@ -12,7 +12,7 @@ layout: home
 
 ### Documentation Linked Table of Contents
 
--[Project Google Drive Directory](https://drive.google.com/drive/folders/1_W3Q4t3e6ECgmr5e_UodI6c1w6_If6em?usp=sharing)
+- [Project Google Drive Directory](https://drive.google.com/drive/folders/1_W3Q4t3e6ECgmr5e_UodI6c1w6_If6em?usp=sharing)
 
 - [Student Rights forms](https://drive.google.com/drive/folders/1Lr2BPlaGID2Bys9MvFWbj_sOZxYdiVi1?usp=sharing)
 
