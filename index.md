@@ -4,7 +4,6 @@ layout: home
 
 ---
 
-
 ![Collaborative Learning Network Logo](img/collab_learning.png)
 
 
@@ -24,9 +23,9 @@ layout: home
 
 - [Project Charter (final version)](https://docs.google.com/document/d/1dQ8ysuD-ajK58X_7trq-o1I35dW0cMV9DHEdXSqrKvs/edit?usp=sharing)
 
-- [Requirements Specification (version 1)](https://drive.google.com/file/d/1FKqoGaREK3v3nZFR9BRUigB_QdAH6BMl/view?usp=sharing)
+- [Requirements Specification (version 1)]()
 
-- [Requirements Specification (final version)](https://docs.google.com/document/d/1oVoiwobkOuBdHq2dBI7CJ_HlUwmtG-1k40z-zeEuF58/edit?usp=sharing)
+- [Requirements Specification (final version)]()
 
 - [Systems Modeling (version 1)](https://drive.google.com/file/d/1dflJOVSw4kREudyE_6TmHVSEyr0aKQoP/view?usp=sharing)
 
