@@ -34,9 +34,9 @@ layout: home
 
 - [Systems Modeling(final version)]()
 
-- [Low Fidelity Prototype (version 1)]()
+- [Low Fidelity Prototype (version 1)](https://drive.google.com/file/d/1pPWysRTQk4tpZECnSdTYciWtEsK2RmcY/view?usp=sharing)
 
-- [Low Fidelity Prototype(final version)]()
+- [Low Fidelity Prototype(final version)](https://drive.google.com/file/d/1h18tTYx_CZNtieJ61j8uENxMJ46jldrM/view?usp=sharing)
 
 - [Implementation Plan (version 1)](https://drive.google.com/file/d/1x1SK6ay2gP5DLnngaQYn5Bd1zpgwOc3V/view?usp=sharing)
 
