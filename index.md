@@ -2,9 +2,7 @@
 
 layout: home
 
-
 ---
-
 
 
 ![Collaborative Learning Network Logo](img/collab_learning.png)
@@ -32,7 +30,7 @@ layout: home
 
 - [Systems Modeling (version 1)](https://drive.google.com/file/d/1dflJOVSw4kREudyE_6TmHVSEyr0aKQoP/view?usp=sharing)
 
-- [Systems Modeling(final version)]()
+- [Systems Modeling(final version)](https://drive.google.com/file/d/1pPWysRTQk4tpZECnSdTYciWtEsK2RmcY/view?usp=sharing)
 
 - [Low Fidelity Prototype (version 1)](https://drive.google.com/file/d/1pPWysRTQk4tpZECnSdTYciWtEsK2RmcY/view?usp=sharing)
 
